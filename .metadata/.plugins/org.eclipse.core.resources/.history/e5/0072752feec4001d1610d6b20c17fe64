@@ -1,0 +1,11 @@
+package com.softech.Entity;
+
+public interface address {
+
+	private int addId;
+	private String addressName;
+	private String address1;
+	private String address2;
+	
+
+}
